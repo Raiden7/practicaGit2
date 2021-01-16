@@ -15,6 +15,9 @@ public class holaMundo {
     private int cinco;
     private int siete;
     private int cuatro;
-    private int once;
-    private int doce;
+    private int sexto;
+    private int nueve;
+    private int diez;
+     private int once;
+     private int doce;
 }
