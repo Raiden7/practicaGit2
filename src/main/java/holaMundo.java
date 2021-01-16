@@ -20,4 +20,5 @@ public class holaMundo {
     private int diez;
      private int once;
      private int doce;
+     private int trece;
 }
