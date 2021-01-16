@@ -19,4 +19,5 @@ public class holaMundo {
     private int nueve;
     private int diez;
      private int once;
+     private int trece;
 }
