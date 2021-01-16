@@ -14,4 +14,5 @@ public class holaMundo {
     private int tres;
     private int cuatro;
     private int sexto;
+    private int nueve;
 }
