@@ -12,4 +12,5 @@ public class holaMundo {
     private int prueba;
     private int numero;
     private int tres;
+    private int cuatro;
 }
