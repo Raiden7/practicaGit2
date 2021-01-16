@@ -9,5 +9,6 @@
  * @author Pascu
  */
 public class holaMundo {
+    private int prueba;
     
 }
