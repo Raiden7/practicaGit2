@@ -23,5 +23,6 @@ public class holaMundo {
      private int trece;
      private int quince;
      private int catorce;
+     private int dieciseis;
 
 }
