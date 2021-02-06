@@ -11,4 +11,5 @@
 public class claseTres {
     private int uno; //WEB
     private int ramaPrueba;
+    private int otroCambioPrueba;
 }
