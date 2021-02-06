@@ -11,4 +11,5 @@
 public class claseDos {
     private int uno;
     
+    private int dos;//PC
 }
