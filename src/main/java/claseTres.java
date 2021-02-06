@@ -9,5 +9,5 @@
  * @author Pascu
  */
 public class claseTres {
-    
+    private int uno; //WEB
 }
