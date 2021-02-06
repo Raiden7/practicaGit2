@@ -9,5 +9,6 @@
  * @author Pascu
  */
 public class claseDos {
+    private int uno;
     
 }
