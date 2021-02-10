@@ -14,4 +14,5 @@ public class claseDos {
     private int tres;// PC
     private int cuatro;// Pc
     private int cinco;//WEB
+    private int seis; // PC
 }
